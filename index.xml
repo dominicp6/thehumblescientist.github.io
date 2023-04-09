@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Humble Scientist</title>
+    <link>/</link>
+    <description>Recent content on The Humble Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 09:47:33 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Prayer Bead Conundrum</title>
+      <link>/posts/bead_combinatorics/</link>
+      <pubDate>Sun, 09 Apr 2023 09:47:33 +0100</pubDate>
+      
+      <guid>/posts/bead_combinatorics/</guid>
+      <description>So you&amp;rsquo;ve studied probability. You know multinomials from binomials, permutations from combinations, and you compute odds of poker plays for fun and profit. Well, now it&amp;rsquo;s time to put your knowledge to the test with this little conundrum.
+Problem For seven days and nights you wander the foothills of the Himalayas. Delirious and low on supplies, you seek refuge in an ancient monastery perched precariously on the hillside. You approach the high wooden doors and knock.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>about</description>
+    </item>
+    
+  </channel>
+</rss>
